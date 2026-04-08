@@ -288,7 +288,16 @@ CONFI was built with uncomfortable questions in mind:
 *What if it becomes a hate platform?* → Moderation runs on every post before it enters the universe. Hate has no orbit here.
 
 ---
+## 👨‍💻 Author
 
+Raghavendra Meda  
+
+🔗 LinkedIn: https://www.linkedin.com/in/raghavendra-meda-134167357/  
+💻 GitHub: https://github.com/Raghavendra-01  
+🌐 Live Demo: https://dreamy-mermaid-747676.netlify.app/  
+📱 Mobile App: https://mobile-first-build--raghavendrabunn.replit.app/
+
+---
 ## 📜 License
 
 MIT — because secrets shouldn't be locked behind paywalls.
