@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 [![Privacy](https://img.shields.io/badge/Data%20Collected-Zero-red?style=for-the-badge)]()
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20Meda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavendra-meda-134167357/)
+
 # 🕯️ CONFI
 ### *Anonymous Confession Platform — Where Secrets Find Their Voice*
 
