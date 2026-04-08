@@ -1,3 +1,8 @@
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-CONFI%20Presentation-7C3AED?style=for-the-badge&logo=github)](https://raghavendra-01.github.io/CONFI/)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-black?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
+[![Privacy](https://img.shields.io/badge/Data%20Collected-Zero-red?style=for-the-badge)]()
+
 # 🕯️ CONFI
 ### *Anonymous Confession Platform — Where Secrets Find Their Voice*
 
@@ -64,7 +69,7 @@ Even we can't trace it back to you.
 │   React Native      │   Three.js + WebGL                │
 │   Expo SDK          │   React Three Fiber               │
 │   Zustand State     │   Socket.io (live feed)           │
-└────────┬────────────┴────────────────┬────────────────-─┘
+└────────┬────────────┴────────────────┬──────────────────┘
          │                             │
          ▼                             ▼
 ┌─────────────────────────────────────────────────────────┐
