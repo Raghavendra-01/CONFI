@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-CONFI%20Presentation-7C3AED?style=for-the-badge&logo=github)](https://raghavendra-01.github.io/CONFI/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-CONFI%20Experience-7C3AED?style=for-the-badge&logo=netlify)](https://dreamy-mermaid-747676.netlify.app/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-black?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 [![Privacy](https://img.shields.io/badge/Data%20Collected-Zero-red?style=for-the-badge)]()
@@ -16,6 +16,9 @@
 
 - 📱 **A mobile app** — your pocket-sized confessional booth, available at 3 AM when the truth feels too heavy
 - 🌐 **A 3D interactive web simulation** — a living, breathing galaxy of secrets rendered in real-time, where each confession becomes a glowing orb drifting through a digital cosmos
+- ## 🌐 Live Demo
+
+👉 https://dreamy-mermaid-747676.netlify.app/
 
 No names. No faces. No judgment. Just raw, unfiltered human truth.
 
